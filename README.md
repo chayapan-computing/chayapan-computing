@@ -1,3 +1,3 @@
 # chayapan-computing
 
-[View site](chayapan-computing.github.io)
+[View site](https://chayapan-computing.github.io/)
